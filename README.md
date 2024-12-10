@@ -2,7 +2,7 @@
   <img
     src="https://render.gitanimals.org/lines/ONION-KSM"
     width="800"
-    height="250"
+    height="200"
   />
 </a>
   
